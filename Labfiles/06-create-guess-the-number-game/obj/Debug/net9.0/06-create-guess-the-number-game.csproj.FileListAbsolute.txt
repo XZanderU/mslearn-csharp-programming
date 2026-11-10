@@ -1,0 +1,15 @@
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\bin\Debug\net9.0\06-create-guess-the-number-game.exe
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\bin\Debug\net9.0\06-create-guess-the-number-game.deps.json
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\bin\Debug\net9.0\06-create-guess-the-number-game.runtimeconfig.json
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\bin\Debug\net9.0\06-create-guess-the-number-game.dll
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\bin\Debug\net9.0\06-create-guess-the-number-game.pdb
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.AssemblyInfoInputs.cache
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.AssemblyInfo.cs
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.csproj.CoreCompileInputs.cache
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.sourcelink.json
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.dll
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\refint\06-create-guess-the-number-game.dll
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.pdb
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.genruntimeconfig.cache
+C:\Users\satel\Projects\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\ref\06-create-guess-the-number-game.dll
